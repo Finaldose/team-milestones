@@ -1,15 +1,10 @@
 {
   "milestones": [
     {
-      "id": "mr41hv1nt8qp",
-      "name": "Directed evolution design",
-      "target": "2026-09-30"
-    },
-    {
       "id": "mr42ij955igd",
       "name": "FDcas 1:100 specificity = Real Drug",
       "target": "2027-05-30"
     }
   ],
-  "updated": "2026-08-23T21:05:48.175Z"
+  "updated": "2026-08-23T21:05:52.183Z"
 }
