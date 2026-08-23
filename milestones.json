@@ -19,7 +19,12 @@
       "id": "mt6asvqss5ms",
       "name": "Finalize funnel assay experimental SOP V1",
       "target": "2026-09-15"
+    },
+    {
+      "id": "mt6at6kpx8jq",
+      "name": "In silico negative filter & scoring done, ready for library construction",
+      "target": "2026-09-15"
     }
   ],
-  "updated": "2026-08-23T21:07:18.580Z"
+  "updated": "2026-08-23T21:07:32.617Z"
 }
