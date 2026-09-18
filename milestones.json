@@ -6,11 +6,6 @@
       "target": "2027-05-30"
     },
     {
-      "id": "mt6asihx3zxa",
-      "name": "Fluorescence vs killing assay initial readout",
-      "target": "2026-09-15"
-    },
-    {
       "id": "mt6asvqss5ms",
       "name": "Finalize funnel assay experimental SOP V1",
       "target": "2026-09-15"
@@ -21,5 +16,5 @@
       "target": "2026-09-15"
     }
   ],
-  "updated": "2026-09-18T10:59:47.205Z"
+  "updated": "2026-09-18T10:59:51.056Z"
 }
